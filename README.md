@@ -13,7 +13,7 @@
 - 💻 Passionate about building **scalable backend systems** and **web applications**
 - 🌱 Currently exploring **full-stack development** with React & Node.js
 - 🚀 Always up for a hackathon challenge
-- 📫 Reach me at: **abhijithukr@github.com**
+- 📫 Reach me at: **abhijithukr@gmail.com**
 
 ---
 
@@ -66,7 +66,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhijithukr" target="_blank">
+  <a href="https://linkedin.com/in/abhijithu-k-r-b56021257" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhijithukr@gmail.com">
